@@ -34,7 +34,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ],
                     "type": "frontmost_application_if"
                 }]
@@ -74,7 +75,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 }
@@ -111,7 +113,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -147,7 +150,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 },
@@ -174,7 +178,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 },
@@ -201,7 +206,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 }
@@ -239,7 +245,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 },
@@ -269,7 +276,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 }
@@ -305,7 +313,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -335,7 +344,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -367,7 +377,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -399,7 +410,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -431,7 +443,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -468,7 +481,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 },
@@ -498,7 +512,8 @@
                             "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                             "^com\\.teamviewer\\.TeamViewer$",
-                            "^com\\.vmware\\.horizon$"
+                            "^com\\.vmware\\.horizon$",
+                        	"^com\\.citrix\\.XenAppViewer$"
                         ]
                     }]
                 }
@@ -533,7 +548,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -565,7 +581,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -597,7 +614,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -629,7 +647,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -646,7 +665,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ],
                     "type": "frontmost_application_if"
                 }],
@@ -699,7 +719,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]
@@ -731,7 +752,8 @@
                         "^com\\.microsoft\\.rdc\\.osx\\.beta$",
                         "^com\\.thinomenon\\.RemoteDesktopConnection$",
                         "^com\\.teamviewer\\.TeamViewer$",
-                        "^com\\.vmware\\.horizon$"
+                        "^com\\.vmware\\.horizon$",
+                        "^com\\.citrix\\.XenAppViewer$"
                     ]
                 }]
             }]

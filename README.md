@@ -1,3 +1,5 @@
+This is forked from [varp/karabiner-rdp](https://github.com/varp/karabiner-rdp) to add support for Citrix Viewer. 
+
 # Mac OSX shortcuts to PC in Remote Desktop sessions  
 
 Translate MAC OS X shortcuts to PC equivalent during remote sessions. The
@@ -11,10 +13,11 @@ following applications input:
     "^com\\.microsoft\\.rdc\\.osx\\.beta$",
     "^com\\.thinomenon\\.RemoteDesktopConnection$",
     "^com\\.teamviewer\\.TeamViewer$",
-    "^com\\.vmware\\.horizon$"
+    "^com\\.vmware\\.horizon$",
+    "^com\\.citrix\\.XenAppViewer$"
 ]
 ```
-will be monitored for keyboard shortcuts and will be translated to tss PC equivalent.
+will be monitored for keyboard shortcuts and will be translated to the PC equivalent.
 
 
 # Install
